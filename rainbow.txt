@@ -4,5 +4,6 @@ green
 black
 blue
 violet
+yellow
 
 These are colours of a rainbow
